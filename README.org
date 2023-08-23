@@ -1,0 +1,7 @@
+Automatically generated wit [[https://my.glove80.com/][Glove80 Layout Editor]].
+
+* References
+- https://www.kaufmann.no/roland/dvorak/
+- https://my.glove80.com/#/layout/user/dc55cade-5049-4339-a475-c6847694f4da
+- https://my.glove80.com/#/layout/user/9209cf97-4b79-4830-9aa8-b7ffd56b7e12
+- https://my.glove80.com/#/layout/user/0175bb3b-3264-48ef-a091-7dace901b36b
